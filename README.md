@@ -29,14 +29,14 @@
 ### Запуск из исходного кода
 
 bash
-# Клонируйте репозиторий
+#### Клонируйте репозиторий
 git clone https://github.com/OneFreeUsername/dino-game.git
 cd dino-game
 
-# Установите зависимости
+#### Установите зависимости
 pip install -r requirements.txt
 
-# Запустите игру
+#### Запустите игру
 python main.py
 
 
